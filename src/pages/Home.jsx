@@ -15,7 +15,7 @@ const Home = () => {
             This page was created in React.JS using bootstrap, styled-components etc. so you can view the source code of this page by clicking the button below.
             </p>
         </div>
-        <HrefLink href=''><Button variant='outline-light mb-5 mb-lg-0'>View Code</Button></HrefLink>
+        <HrefLink href='https://github.com/kolo3133/portfolio/tree/main'><Button variant='outline-light mb-5 mb-lg-0'>View Code</Button></HrefLink>
     </Container>
   )
 }
